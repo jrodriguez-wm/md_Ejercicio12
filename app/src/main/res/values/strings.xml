@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MD_CardView</string>
+    <string name="court_1">Court 1</string>
+    <string name="court_2">court 2</string>
 </resources>
